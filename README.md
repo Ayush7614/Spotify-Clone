@@ -1,3 +1,12 @@
+
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
