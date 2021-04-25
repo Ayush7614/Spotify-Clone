@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Ayush7614/Spotify-Clone">
-    <img src="https://www.freepnglogos.com/uploads/spotify-logo-hd-8.png" alt="Logo" width="200" height="170">
+    <img src="https://www.freepnglogos.com/uploads/Spotify-logo-hd-8.png" alt="Logo" width="200" height="170">
   </a>
 
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
