@@ -1,13 +1,29 @@
 
-<p align="center">
-  <a href="https://github.com/Ayush7614/Spotify-Clone">
-    <img src="https://www.freepnglogos.com/uploads/Spotify-logo-hd-8.png" alt="Logo" width="200" height="170">
-  </a>
 
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
-![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+## 🏃‍♂️ Local Installation
+
+1. Drop a ⭐ on the Github Repository. 
+2. Clone the Repo by going to your local Git Client and pushing in the command: 
+
+```sh
+https://github.com/Ayush7614/Spotify-Clone.git
+```
+
+3. Install the Node Modules: 
+```sh
+npm install
+```
+
+4. At last, push in the command which will kickstart the application on Local Host:
+```sh
+npm start
+```
+
 
 
 
