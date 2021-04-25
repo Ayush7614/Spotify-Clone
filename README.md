@@ -5,6 +5,14 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+  ## 🏁 Technology Stack
+
+* [React](https://reactjs.org/)
+* [Node.js](https://nodejs.org/)
+* [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [Spotify v3 Data API]()
+
+
 ## 🏃‍♂️ Local Installation
 
 1. Drop a ⭐ on the Github Repository. 
